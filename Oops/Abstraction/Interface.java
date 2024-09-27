@@ -1,0 +1,1 @@
+// An interface in Java is another way to achieve abstraction. It is a completely abstract type used to define a contract for classes that implement it. Interfaces contain only abstract methods (until Java 8, after which default and static methods were introduced).
